@@ -1,0 +1,26 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+*.log
+*.tsbuildinfo
+
+# Documentacion y archivos de entrega
+*.md
+*.txt
+*.pdf
+*.docx
+*.odt
+*.zip
+
+# Evidencias, capturas y respaldos
+evidencias/
+capturas/
+screenshots/
+respaldos/
+*.png
+*.jpg
+*.jpeg
+*.webp
